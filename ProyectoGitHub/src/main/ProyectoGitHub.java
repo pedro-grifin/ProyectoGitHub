@@ -3,7 +3,8 @@ package main;
 public class ProyectoGitHub {
 
     /**
-     * @param args the command line arguments
+     * @author PedroGuzman
+     * @version Final
      */
     /**
      * Metodo que compara la calificacion deseada con la calificacion real y devuelve un comentario.
